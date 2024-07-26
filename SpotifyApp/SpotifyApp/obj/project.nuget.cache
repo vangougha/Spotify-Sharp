@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "qkChJFedYbwf5+GJufDTh/Mt6WL8ZwT2xgEyBqU9eHL4OfYjGboWDcxwxpFaQ5lExvdaYQbMP3gaaer9tMkSHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\Kod\\SpotifyApp\\SpotifyApp\\SpotifyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "SpotifyApp depends on RestSharp (>= 106.14.0) but RestSharp 106.14.0 was not found. An approximate best match of RestSharp 106.15.0 was resolved.",
+      "libraryId": "RestSharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
