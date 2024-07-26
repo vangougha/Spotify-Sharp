@@ -14,7 +14,7 @@ namespace SpotifyApiExample
             try
             {
                 var denemeId = "1VPmR4DJC1PlOtd0IADAO0";
-                var accessToken = "BQCy2B7BaNDra6T7L7cvCygfRbVLtlnfYyc_I2wJrbuxnEwlpENoRBb5B-EgXTTqs_eCYIWCwyVjQ803JxmOkHiWBSTWfTY8vwumPBjSNCWrYIxsH88";
+                var accessToken = "";
 
                 // Sanatçı bilgilerini al
                 string artistInfo = await GetArtistInfoAsync(denemeId, accessToken);
